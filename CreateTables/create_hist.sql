@@ -1,4 +1,4 @@
-CREATE TABLE sales_stg_ds.t_sales_hist_2025_12_25 (
+CREATE TABLE sales_hist_ds.t_sales_hist_2025_12_25 (
     Item_Identifier STRING,
     Item_Weight FLOAT64,
     Item_Fat_Content STRING,
